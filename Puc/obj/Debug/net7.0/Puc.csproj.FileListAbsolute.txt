@@ -1,0 +1,14 @@
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\bin\Debug\net7.0\Puc.exe
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\bin\Debug\net7.0\Puc.deps.json
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\bin\Debug\net7.0\Puc.runtimeconfig.json
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\bin\Debug\net7.0\Puc.dll
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\bin\Debug\net7.0\Puc.pdb
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.AssemblyInfoInputs.cache
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.AssemblyInfo.cs
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.csproj.CoreCompileInputs.cache
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.dll
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\refint\Puc.dll
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.pdb
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\Puc.genruntimeconfig.cache
+c:\Users\Braian\Documents\meus-projetos\c-sharp\Puc\obj\Debug\net7.0\ref\Puc.dll
