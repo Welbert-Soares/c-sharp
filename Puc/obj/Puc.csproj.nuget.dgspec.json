@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj": {}
+    "d:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj": {}
   },
   "projects": {
-    "D:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj": {
+    "d:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj",
+        "projectUniqueName": "d:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj",
         "projectName": "Puc",
-        "projectPath": "D:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj",
+        "projectPath": "d:\\userDeveloper\\c-sharp\\Puc\\Puc.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "D:\\userDeveloper\\c-sharp\\Puc\\obj\\",
+        "outputPath": "d:\\userDeveloper\\c-sharp\\Puc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
