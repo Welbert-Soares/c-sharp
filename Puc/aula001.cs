@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-class MainClass {
+class Class {
     public static void Main (string[] args) {
         int idade = 27;
         string nome = "Luna";
@@ -16,3 +16,5 @@ class MainClass {
 
     }
 }
+
+    
