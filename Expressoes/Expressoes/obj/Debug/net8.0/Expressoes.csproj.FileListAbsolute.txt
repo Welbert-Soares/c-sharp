@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\bin\Debug\net8.0\Expressoes.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\bin\Debug\net8.0\Expressoes.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\bin\Debug\net8.0\Expressoes.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\bin\Debug\net8.0\Expressoes.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\bin\Debug\net8.0\Expressoes.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\refint\Expressoes.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\Expressoes.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Expressoes\Expressoes\obj\Debug\net8.0\ref\Expressoes.dll
