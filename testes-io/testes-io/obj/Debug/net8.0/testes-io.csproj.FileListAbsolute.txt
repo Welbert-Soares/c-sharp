@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\bin\Debug\net8.0\testes-io.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\bin\Debug\net8.0\testes-io.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\bin\Debug\net8.0\testes-io.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\bin\Debug\net8.0\testes-io.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\bin\Debug\net8.0\testes-io.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\refint\testes-io.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\testes-io.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\testes-io\testes-io\obj\Debug\net8.0\ref\testes-io.dll
