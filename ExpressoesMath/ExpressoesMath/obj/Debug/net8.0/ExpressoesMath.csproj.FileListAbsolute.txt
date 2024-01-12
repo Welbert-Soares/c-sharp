@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\bin\Debug\net8.0\ExpressoesMath.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\bin\Debug\net8.0\ExpressoesMath.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\bin\Debug\net8.0\ExpressoesMath.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\bin\Debug\net8.0\ExpressoesMath.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\bin\Debug\net8.0\ExpressoesMath.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\refint\ExpressoesMath.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ExpressoesMath.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\ExpressoesMath\ExpressoesMath\obj\Debug\net8.0\ref\ExpressoesMath.dll
