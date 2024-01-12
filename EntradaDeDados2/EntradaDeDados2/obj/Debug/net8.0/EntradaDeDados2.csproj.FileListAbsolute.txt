@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\bin\Debug\net8.0\EntradaDeDados2.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\bin\Debug\net8.0\EntradaDeDados2.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\bin\Debug\net8.0\EntradaDeDados2.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\bin\Debug\net8.0\EntradaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\bin\Debug\net8.0\EntradaDeDados2.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\refint\EntradaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\EntradaDeDados2.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\EntradaDeDados2\EntradaDeDados2\obj\Debug\net8.0\ref\EntradaDeDados2.dll
