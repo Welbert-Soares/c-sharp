@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\bin\Debug\net8.0\Bee001.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\bin\Debug\net8.0\Bee001.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\bin\Debug\net8.0\Bee001.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\bin\Debug\net8.0\Bee001.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\bin\Debug\net8.0\Bee001.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\refint\Bee001.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\Bee001.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\Beecrowd\Bee001\Bee001\obj\Debug\net8.0\ref\Bee001.dll
