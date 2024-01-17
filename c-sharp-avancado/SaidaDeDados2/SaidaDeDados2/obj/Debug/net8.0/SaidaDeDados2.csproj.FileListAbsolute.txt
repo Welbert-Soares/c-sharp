@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\bin\Debug\net8.0\SaidaDeDados2.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\bin\Debug\net8.0\SaidaDeDados2.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\bin\Debug\net8.0\SaidaDeDados2.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\bin\Debug\net8.0\SaidaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\bin\Debug\net8.0\SaidaDeDados2.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\refint\SaidaDeDados2.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\SaidaDeDados2.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\SaidaDeDados2\SaidaDeDados2\obj\Debug\net8.0\ref\SaidaDeDados2.dll
