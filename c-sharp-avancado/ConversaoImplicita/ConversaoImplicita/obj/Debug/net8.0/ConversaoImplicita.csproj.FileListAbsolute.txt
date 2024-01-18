@@ -1,0 +1,15 @@
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.exe
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.deps.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.runtimeconfig.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\bin\Debug\net8.0\ConversaoImplicita.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.AssemblyInfo.cs
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.sourcelink.json
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\refint\ConversaoImplicita.dll
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.pdb
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ConversaoImplicita.genruntimeconfig.cache
+C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\ConversaoImplicita\ConversaoImplicita\obj\Debug\net8.0\ref\ConversaoImplicita.dll
