@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressoesMath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ac3de37c06fbf341c89e9720bcb588fc07d248")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b8eb35755e86fbe042b387ac15269b12eedb908")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressoesMath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressoesMath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

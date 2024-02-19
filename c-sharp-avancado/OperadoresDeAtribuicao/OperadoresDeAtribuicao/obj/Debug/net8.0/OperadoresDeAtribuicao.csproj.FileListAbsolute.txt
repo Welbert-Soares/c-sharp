@@ -13,3 +13,18 @@ C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\OperadoresDeAtr
 C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.pdb
 C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.genruntimeconfig.cache
 C:\Users\Braian\Documents\meus-projetos\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\ref\OperadoresDeAtribuicao.dll
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.exe
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.deps.json
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.dll
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.pdb
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.sourcelink.json
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.dll
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\refint\OperadoresDeAtribuicao.dll
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.pdb
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\Welbert Soares\OneDrive\Documentos\GitHub\c-sharp\c-sharp-avancado\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\ref\OperadoresDeAtribuicao.dll
